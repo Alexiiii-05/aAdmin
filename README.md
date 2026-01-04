@@ -1,3 +1,4 @@
+- Touche F2 pour ouvrir le menu si le group est supérieur a USER
 - Sytème report simple et éfficace
 - Liste de joueurs trié staff > joueurs 
 - Badge ⭐ si staff dans la liste des joueurs 
